@@ -10,7 +10,7 @@ EL CONGRESO DE LA NACIÓN PARAGUAYA SANCIONA CON FUERZA DE LEY:
 La presente ley tiene por objeto crear el Ministerio de Tecnologías de la Información y Comunicación, en adelante el «Ministerio», identificado con las siglas «MITIC», en sustitución de la Secretaría Nacional de Tecnologías de la Información y Comunicación «SENATICS» y establecer su carta orgánica y funciones, así como los órganos que lo conforman.
 
 ### Art. 2º.  
-El «Ministerio» es un órgano del Poder Ejecutivo, de derecho público, el cual se constituye en la entidad técnica especializada para la formulación de políticas públicas que regirán el sector de las Tecnologías de la Información y Comunicación, además de definir la normativa, la regulación, la definición de estrategias, de gestión especializada que incluya el ordenamiento general, el régimen de competencia, la protección al usuario, así como lo concerniente a la cobertura, calidad de servicio, promoción de la inversión y desarrollo de estas tecnologías, la planificación y uso eficiente de las redes y del espectro radioeléctrico, donde se tendrá en cuenta aspectos sociales como educativos facilitando el libre acceso sin discriminación para que los habitantes del territorio de la república accedan a la Sociedad del Conocimiento.
+El «Ministerio» es un órgano del Poder Ejecutivo, de derecho público, el cual se constituye en la entidad técnica especializada para la formulación de políticas públicas que regirán el sector de las «TIC», además de definir la normativa, la regulación, la definición de estrategias, de gestión especializada que incluya el ordenamiento general, el régimen de competencia, la protección al usuario, así como lo concerniente a la cobertura, calidad de servicio, promoción de la inversión y desarrollo de estas tecnologías, la planificación y uso eficiente de las redes y del espectro radioeléctrico, donde se tendrá en cuenta aspectos sociales como educativos facilitando el libre acceso sin discriminación para que los habitantes del territorio de la república accedan a la Sociedad del Conocimiento.
 
 ### Art. 3º. 
 El «Ministerio» constituye su domicilio legal en la ciudad de Asunción, pudiendo establecer oficinas regionales, departamentales y distritales.
@@ -25,15 +25,15 @@ Toda actuación relacionada con la presente ley debe observar los siguientes pri
 
 **2. Transparencia y Participación Ciudadana.** Los procesos, requisitos y políticas aplicables serán de conocimiento público y se fomentará la difusión de toda información a través de la cual la ciudadanía pueda participar con sus opiniones, demandas y propuestas.
 
-**3. Fomento de las TIC.** La investigación, el fomento, la promoción y el desarrollo de las Tecnologías de la Información y Comunicación son una política de Estado que involucra a todos los sectores y niveles de la administración pública y de la sociedad, para contribuir de manera eficiente y eficaz al desarrollo educativo, cultural, económico, industrial, social y político, e incrementar la productividad, la competitividad, el respeto a los derechos humanos inherentes y la inclusión social.
+**3. Fomento de las TIC.** La investigación, el fomento, la promoción y el desarrollo de las «TIC» son una política de Estado que involucra a todos los sectores y niveles de la administración pública y de la sociedad, para contribuir de manera eficiente y eficaz al desarrollo educativo, cultural, económico, industrial, social y político, e incrementar la productividad, la competitividad, el respeto a los derechos humanos inherentes y la inclusión social.
 
-**4. Protección de los derechos de los usuarios.** El Estado velará por la adecuada protección de los derechos de los usuarios de las Tecnologías de la Información y Comunicación, en los niveles de calidad establecidos dentro de los rangos que certifiquen las entidades competentes e idóneas en la materia; brindando información clara, transparente, veraz y oportuna para que los usuarios tomen sus decisiones.
+**4. Protección de los derechos de los usuarios.** El Estado velará por la adecuada protección de los derechos de los usuarios de las «TIC», en los niveles de calidad establecidos dentro de los rangos que certifiquen las entidades competentes e idóneas en la materia; brindando información clara, transparente, veraz y oportuna para que los usuarios tomen sus decisiones.
 
-**5. Neutralidad Tecnológica.** El Estado garantizará la libre adopción de tecnologías por parte de los habitantes del territorio nacional, teniendo en cuenta demostradas mejores prácticas del mercado, ademas de aplicar conceptos y normativas estandarizadas de reconocidos organismos internacionales especializados en tecnologías, que permitan fomentar la eficiente prestación de servicios, contenidos y aplicaciones que usen Tecnología de la Información y Comunicación para garantizar la libre y leal competencia, y que su adopción sea armónica con el desarrollo ambiental sostenible.
+**5. Neutralidad Tecnológica.** El Estado garantizará la libre adopción de tecnologías por parte de los habitantes del territorio nacional, teniendo en cuenta demostradas mejores prácticas del mercado, ademas de aplicar conceptos y normativas estandarizadas de reconocidos organismos internacionales especializados en tecnologías, que permitan fomentar la eficiente prestación de servicios, contenidos y aplicaciones que usen «TIC» para garantizar la libre y leal competencia, y que su adopción sea armónica con el desarrollo ambiental sostenible.
 
 **6. Códigos, Datos y formatos libre y abierto.** El Estado definirá planes de adopción de herramientas basadas en código libre y abierto, adoptando formatos libres y abiertos para la exposición de datos que se definan como de uso público. Los servicios expuestos tanto internamente en las instituciones como los expuestos a Internet estaran basados en estandares que sean soportados por dichas herramientas. Se aplicará esquemas de transparencia activa en toda la infraestructura básica, como en los sistemas y servicios de todos los organismos públicos.
 
-**7. Masificación del Gobierno Electrónico.** Con el fin de lograr la prestación de servicios eficientes a todos los sectores de la sociedad, las entidades públicas deberán adoptar todas las medidas necesarias para garantizar el máximo aprovechamiento de las Tecnologías de la Información y Comunicación en el desarrollo de sus funciones. El Gobierno Nacional fijará los mecanismos y condiciones para garantizar el desarrollo de este principio. Y en la reglamentación correspondiente, establecerá los plazos, términos y prescripciones, no solamente para la instalación de las infraestructuras indicadas y necesarias, sino también para mantener actualizadas y con la información completa, los medios e instrumentos tecnológicos.
+**7. Masificación del Gobierno Electrónico.** Con el fin de lograr la prestación de servicios eficientes a todos los sectores de la sociedad, las entidades públicas deberán adoptar todas las medidas necesarias para garantizar el máximo aprovechamiento de las «TIC» en el desarrollo de sus funciones. El Gobierno Nacional fijará los mecanismos y condiciones para garantizar el desarrollo de este principio. Y en la reglamentación correspondiente, establecerá los plazos, términos y prescripciones, no solamente para la instalación de las infraestructuras indicadas y necesarias, sino también para mantener actualizadas y con la información completa, los medios e instrumentos tecnológicos.
 
 ### Art. 5º. Glosario
 
@@ -45,37 +45,37 @@ A los efectos de la presente ley, se entenderá por:
 
 3. «SENATICS»: Secretaría Nacional de Tecnologías de la Información y Comunicación.
 
-4. «SICOM»: Secretaría de Información y Comunicación para el Desarrollo.
+4. «TIC»: Tecnologías de la Información y Comunicación.
 
-5. «TIC»: Tecnologías de la Información y Comunicación.
+5. «FONTIC»: Fondo Nacional de Tecnologías de la Información y Comunicación
 
-6. «FONTIC»: Fondo Nacional de Tecnologías de la Información y Comunicación
+6. «CONATEL»: Comisión Nacional de Telecomunicaciones.
 
-7. «CONATEL»: Comisión Nacional de Telecomunicaciones.
+7. «COPACO»: Compañía Paraguaya de Comunicaciones S.A.
 
-8. «COPACO»: Compañía Paraguaya de Comunicaciones S.A.
+8. «AEP»: Agencia Espacial del Paraguay.
 
-9. «AEP»: Agencia Espacial del Paraguay.
-
-10. «IID»: Investigación, Innovación y Desarrollo
+9. «IID»: Investigación, Innovación y Desarrollo
 
 ### Art. 6º.- Objetivos del Ministerio.
 
 El «Ministerio» tendrá los siguientes objetivos:
 
-**1.** Elaborar, promover, implementar y supervisar las políticas públicas, planes, programas y proyectos del sector de las Tecnologías de la Información y la Comunicación y de sectores convergentes, así como su ordenamiento general, en concordancia con la Constitución de la República del Paraguay y las leyes.
+**1.** Elaborar, promover, implementar y supervisar las políticas públicas, planes, programas y proyectos del sector de las «TIC» y de sectores convergentes, así como su ordenamiento general, en concordancia con la Constitución de la República del Paraguay y las leyes.
 
 **2.** Promover, incrementar y facilitar el uso de las «TIC», buscando siempre la participación y el acceso efectivo en igualdad de oportunidades a todos los habitantes de la República, con la mayor cobertura y calidad de servicios posibles; así como propiciar el uso eficiente de las redes informáticas, la IID, formación del talento humano y la competencia a nivel nacional e internacional.
 
 **3.** Impulsar el desarrollo y el fortalecimiento del sector, la innovación tecnológica, economía digital, mediante políticas públicas que involucren a todos los niveles de los «OEE» y de la sociedad.
 
-**4.** Desarrollar procesos y estrategias de Comunicación para la difusión de la información que generen los «OEE» y la parte paraguaya de los Organismos Binacionales o Multilaterales, de manera a lograr que la difusión de la información sea realizada en forma ágil y oportuna e incentivando la apropiación social y educativa de las tecnologías para implementación adecuada, una interacción comunicacional participativa, plural y transparente entre el Poder Ejecutivo y los habitantes de la República del Paraguay.
+**4.** Desarrollar estándares para mejorar los procesos de las OEE y la parte paraguaya de los Organismos Binacionales o Multilaterales, realizada en forma ágil y oportuna e incentivando la apropiación social y educativa de las tecnologías para implementación adecuada, una interacción comunicacional participativa, plural y transparente entre el Poder Ejecutivo y los habitantes de la República del Paraguay.
+
+**5.** Definir estandares y metodologias que serán de aplicación obligatoria en todas las entidades del Estado, de tal forma que se contruya, opere y mantenga la infraestructura de las «TIC»
 
 ### Art. 7º.- Competencias.
 
 El «Ministerio», tendrá las siguientes competencias:
 
-**1.** Diseñar, planificar, adoptar, ejecutar y promover las políticas, planes, programas y proyectos del sector de las Tecnologías de la Información y Comunicación que contribuyan al mejoramiento de la calidad de vida de las comunidades, el acceso a las nuevas tecnologías y a la información de manera a contribuir a generar oportunidades de educación, trabajo, salud, justicia, cultura y recreación, entre otras.
+**1.** Diseñar, planificar, adoptar, ejecutar y promover las políticas, planes, programas y proyectos del sector de las «TIC» que contribuyan al mejoramiento de la calidad de vida de las comunidades, el acceso a las nuevas tecnologías y a la información de manera a contribuir a generar oportunidades de educación, trabajo, salud, justicia, cultura y recreación, entre otras.
 
 **2.** Establecer y gestionar políticas de protección de la información personal y gubernamental, y cultivar los conocimientos sobre la industria de seguridad de la información, para lo cual deberá establecer un sistema de organización de seguridad, proponer una política de seguridad a nivel nacional, y establecer un plan de integración de protección de información.
 
@@ -87,7 +87,7 @@ El «Ministerio», tendrá las siguientes competencias:
 
 **6.** Implementar y administrar la infraestructura tecnológica vinculada con redes públicas y centro de datos del Poder Ejecutivo.
 
-**7.** Orientar, priorizar y dirigir el proceso de incorporación y mantenimiento de las Tecnologías de la Información y Comunicación (TIC) en la gestión pública, definiendo los diversos componentes, etapas y secuencias del proceso que deben ser implementados por los Organismos y Entidades del Estado, que tengan incidencia directa en el fortalecimiento de la eficacia, eficiencia y transparencia de las prestaciones y servicios públicos.
+**7.** Orientar, priorizar y dirigir el proceso de incorporación y mantenimiento de las «TIC» en la gestión pública, definiendo los diversos componentes, etapas y secuencias del proceso que deben ser implementados por los Organismos y Entidades del Estado, que tengan incidencia directa en el fortalecimiento de la eficacia, eficiencia y transparencia de las prestaciones y servicios públicos.
 
 **8.** Aprobar y apoyar los planes, proyectos y actividades ejecutadas por los Organismos y Entidades del Estado, en el cumplimiento de sus fines, vinculados al sector de TIC.
 
@@ -117,7 +117,7 @@ El «Ministerio», tendrá las siguientes competencias:
 
 **21.** Asesorar y prestar asistencia técnica a entidades estatales, privadas, organizaciones civiles, gobiernos departamentales y municipales, a solicitud de los mismos; así como también promover y coordinar con ellos las iniciativas que guarden relación con los fines de esta ley.
 
-**22.** Implementar estrategias de supervisión y fiscalización en la ejecución de los proyectos ejecutados en el marco de los programas y planes del «Ministerio», así como ejercer facultades de verificación y control en todo lo concerniente a tecnologías de la información y de la comunicación, realizadas por los «OEE».
+**22.** Implementar estrategias de supervisión y fiscalización en la ejecución de los proyectos ejecutados en el marco de los programas y planes del «Ministerio», así como ejercer facultades de verificación y control en todo lo concerniente a «TIC», realizadas por los «OEE».
 
 **23.** Ejercer la autoridad de administración de los fondos del «FONTIC» destinados al sector de las «TIC» y otros fondos creados para el cumplimiento de sus fines.
 
@@ -135,7 +135,7 @@ El Ministro es nombrado por decreto del Poder Ejecutivo y debe cumplir con los s
 
 **2.** Haber cumplido veinticinco (25) años de edad;
 
-**3.** Tener probada idoneidad técnica y amplia experiencia en el sector de las Tecnologías de la Información y Comunicación.
+**3.** Tener probada idoneidad técnica y amplia experiencia en el sector de las «TIC».
 
 **4.** Estar en pleno goce de los derechos civiles y políticos. No registrar antecedentes de mal desempeño en la función pública.
 
@@ -153,7 +153,7 @@ Son deberes y atribuciones del Ministro:
 
 **4.** Velar por el cumplimiento de las normas aplicables al «Ministerio» y adoptar las medidas necesarias para asegurar su normal funcionamiento.
 
-**5.** Asumir la representación como máxima y exclusiva autoridad en cuestiones de políticas y acciones de las Tecnologías de la Información y de Comunicación.
+**5.** Asumir la representación como máxima y exclusiva autoridad en cuestiones de políticas y acciones de las «TIC».
 
 **6.** Elaborar el anteproyecto de presupuesto del «Ministerio» y someterlo al órgano ministerial competente en los plazos legales previstos y acompañar su estudio hasta su promulgación, y ejecutarlo conforme con la planificación anual.
 
@@ -183,17 +183,17 @@ Son deberes y atribuciones del Ministro:
 
 **19.** Elevar al Poder Ejecutivo la propuesta de creación, modificación, ampliación, abrogación o derogación de leyes, decretos o normativas en ejercicio de su competencia.
 
-**20.** Diseñar, implementar y supervisar la aplicación de las políticas de las Tecnologías de la Información y Comunicación en los programas y proyectos del Poder Ejecutivo, de acuerdo con las normativas legales vigentes.
+**20.** Diseñar, implementar y supervisar la aplicación de las políticas de las «TIC» en los programas y proyectos del Poder Ejecutivo, de acuerdo con las normativas legales vigentes.
 
 **21.** Diseñar las estrategias y acuerdos necesarios para el desarrollo de trabajos participativos con las organizaciones civiles.
 
 **22.** Obtener, gestionar, y administrar los recursos asignados para los fines específicos de la presente ley y los fondos creados para el sector, así como el cuidado de los bienes o patrimonio de la institución.
 
-**23.** Suscribir convenios, acuerdos y otras formas de cooperación en materia de temas de Tecnologías de la Información y Comunicación, que propicie la investigación e intercambio de conocimientos y experiencias, y movilice además los recursos nacionales y externos para la ejecución de planes y programas relacionados al sector de las «TIC» y la Comunicación.
+**23.** Suscribir convenios, acuerdos y otras formas de cooperación en materia de temas de «TIC», que propicie la investigación e intercambio de conocimientos y experiencias, y movilice además los recursos nacionales y externos para la ejecución de planes y programas relacionados al sector de las «TIC».
 
 **24.** Administrar los fondos destinados al sector de las «TIC» y otros fondos creados para el cumplimiento de los fines del «Ministerio».
 
-**25.** Propiciar y realizar todo tipo de estudios, análisis y reglamentaciones referidas al sector de las Tecnologías de la Información y Comunicación.
+**25.** Propiciar y realizar todo tipo de estudios, análisis y reglamentaciones referidas al sector de las «TIC».
 
 **26.** Resolver los recursos administrativos que se interpongan ante él, de conformidad a la ley.
 
@@ -215,17 +215,21 @@ El «Ministerio» contará con la siguiente estructura orgánica:
 
 **c)** Secretaria General;
 
-**d)** Viceministerio de Tecnologías de la Información y Comunicación (TIC);
+**d)** Viceministerio de Infraestructura digital;
 
-**e)** Viceministerio de Comunicación
+**e)** Viceministerio de Transformación digital;
 
-**f)** Dirección General de Asesoría Jurídica;
+**g)** Viceministerio de Inclusión digital;
 
-**g)** Dirección General de Administración y Finanzas;
+**h)** Viceministerio de Economía digital;
 
-**h)** Auditoría Interna; y,
+**i)** Dirección General de Asesoría Jurídica;
 
-**i)** Otras Direcciones Generales y dependencias que fueren necesarias para el cumplimiento de los objetivos del «Ministerio».
+**j)** Dirección General de Administración y Finanzas;
+
+**k)** Auditoría Interna; y,
+
+**l)** Otras Direcciones Generales y dependencias que fueren necesarias para el cumplimiento de los objetivos del «Ministerio».
 
 En caso de sustitución del Ministro, los cargos de los titulares de las unidades orgánicas detalladas en el presente artículo, estarán a disposición de la nueva autoridad designada por el Poder Ejecutivo, pudiendo ser reasignados según necesidad o destituidos sin más trámites por término de funciones.
 
@@ -233,27 +237,43 @@ En caso de sustitución del Ministro, los cargos de los titulares de las unidade
 
 El «Ministerio» podrá incorporar en su organigrama a las Direcciones Generales o dependencias similares que considere necesarias para el cumplimiento de sus objetivos. Los Viceministerios contarán cuanto menos con las siguientes Direcciones Generales:
 
-##### 1. Viceministerio de Tecnologías de la Información y Comunicación (TIC):
+#### 1. Viceministerio de Infraestructura digital:
 
-**a)**  Dirección General de Infraestructura y Conectividad
+**a)** Dirección General de Conectividad y Sistemas
 
-**b)**  Dirección General de Gobierno Electrónico.
+**b)** Dirección General de Gestión de Recursos Digitales
 
-**c)**  Dirección General de Inclusión Digital y TIC en la Educación
+**c)** Dirección General de Seguridad
 
-**d)** Dirección General de Innovación Productiva y Economía Digital
+**d)** Dirección General de Estándares
 
-**e)** Dirección General de Ciberseguridad y Protección de la Información
+**e)** Dirección General de Planificación
 
-##### 2. Viceministerio de Comunicación:
+#### 2. Viceministerio de Transformación Digital
 
-**a)**  Dirección General de Educación y Comunicación para el Bienestar.
+**a)** Dirección General de Transformación digital
 
-**b)**  Dirección General de Comunicación Estratégica.
+**b)** Dirección General de Gestión del Conocimiento
 
-**c)**  Dirección General de Información Presidencial.
+**c)** Dirección General de Gobierno Electrónico
 
-**d)**  Dirección General de Medios del Estado.
+#### 3. Viceministerio de Inclusión Digital
+
+**a)** Dirección General de Educación Digital
+
+**b)** Dirección General de Inclusión Digital
+
+**c)** Dirección General de Capacidad Digital
+
+**d)** Dirección General de Medios Digitales
+
+#### 4. Viceministerio de Economía Digital
+
+**a)** Dirección General de Industria
+
+**b)** Dirección General de Comercio 
+
+**c)** Dirección General de Innovación Industrial
 
 ### Art. 13º.- Nombramientos.
 
@@ -267,6 +287,8 @@ Para ejercer los cargos de Viceministros, Secretario General, Directores General
 
 Dichos cargos serán ejercidos a tiempo completo y con dedicación exclusiva y es incompatible con el ejercicio de otra actividad, con o sin remuneración, debiendo dedicarse en exclusividad a sus funciones salvo el ejercicio de la docencia a tiempo parcial y opuesto al horario laboral siempre que ella no perturbe el ejercicio de sus funciones.
 
+Los cargos de Viceministros serán ocupados por profesionales con titulo universitario de grado de las carreras de Analisis de Sistemas, de Ingeniería Informática o de Ingeniería Electrónica según especialidad del viceministerio. En ningún caso se aceptarán profesionales con titulo de grado de otras carreras o con maestrías o doctorados en «TIC».
+
 ### Art. 15º.- Organización interna. Facultad de modificar, ampliar y establecer funciones y atribuciones a la Organización del Ministerio.
 
 Se podrá modificar y ampliar la estructura organizacional y los niveles de dependencias del «Ministerio», y establecer las funciones y atribuciones de las mismas conforme a las competencias asignadas en la presente ley, por decreto del Poder Ejecutivo.
@@ -275,7 +297,7 @@ Se podrá modificar y ampliar la estructura organizacional y los niveles de depe
 
 El patrimonio del «Ministerio» está constituido por:
 
-1. La totalidad del activo y pasivo de la «SENATICS» y de la «SICOM» constituidos por muebles, inmuebles, derechos, acciones, garantías o privilegios, subrogándose de pleno derecho al «Ministerio» en todas las acciones y derechos que aquellas Instituciones detentan a la fecha.
+1. La totalidad del activo y pasivo de la «SENATICS» constituidos por muebles, inmuebles, derechos, acciones, garantías o privilegios, subrogándose de pleno derecho al «Ministerio» en todas las acciones y derechos que aquellas Instituciones detentan a la fecha.
 
 2. Los bienes adquiridos en el futuro para el cumplimiento de sus fines.
 
@@ -307,19 +329,19 @@ Constituyen recursos económicos y recursos patrimoniales del «Ministerio»:
 
 ### Art. 18º.- Absorción del «FONTIC». Componentes.
 
-El «Ministerio» absorbe como parte de sus recursos económicos, el «FONTED» el cual pasará a llamarse «FONTIC», constituido con la finalidad de lograr los objetivos vinculados con programas de Tecnología de la Información y Comunicación
+El «Ministerio» absorbe como parte de sus recursos económicos, el «FONTED» el cual pasará a llamarse «FONTIC», constituido con la finalidad de lograr los objetivos vinculados con programas de «TIC».
 
 Forman parte del «FONTIC»:
 
-**1.** Los fondos provenientes de convenios o acuerdos con instituciones nacionales o internacionales, públicas o privadas que se enmarquen en programas relacionados con las Tecnologías de la Información y Comunicación «TIC».
+**1.** Los fondos provenientes de convenios o acuerdos con instituciones nacionales o internacionales, públicas o privadas que se enmarquen en programas relacionados con las «TIC».
 
-**2.** Los recursos provenientes de la cooperación técnica internacional, que se enmarquen en programas relacionados con las Tecnologías de la Información y Comunicación «TIC»
+**2.** Los recursos provenientes de la cooperación técnica internacional, que se enmarquen en programas relacionados con las «TIC»
 
 **3.** El cincuenta por ciento (50 %) de los recursos afectados al Fondo de Servicios Universales, administrado por la Comisión Nacional de Telecomunicaciones «CONATEL».
 
 **4.** Los recursos provenientes de los Royalties y Compensaciones que corresponden a la Administración Central, de conformidad a lo establecido en el inciso a) del Artículo 1º de la Ley Nº 3984/2010, en un monto que deberá establecerse en cada Ejercicio Fiscal.
 
-**5.** Además, podrán formar parte de los recursos del «FONTIC» las donaciones, legados, transferencias u otros aportes, por cualquier título proveniente de personas naturales o jurídicas nacionales o extranjeras, que se enmarquen en programas relacionados con las Tecnologías de la Información y Comunicación «TIC»
+**5.** Además, podrán formar parte de los recursos del «FONTIC» las donaciones, legados, transferencias u otros aportes, por cualquier título proveniente de personas naturales o jurídicas nacionales o extranjeras, que se enmarquen en programas relacionados con las «TIC»
 
 ### Art. 19º.- Colaboración y asistencia de los «OEE» y del sector privado.
 
@@ -339,19 +361,19 @@ La utilización de los medios electrónicos deberá ser reglamentada y deberá a
 
 ### Art. 23º.- Personal, bienes y recursos financieros.
 
-A partir de la vigencia de la presente ley, el personal, bienes y recursos financieros de la «SENATICS» y de la «SICOM» pasarán a formar parte del «Ministerio».
+A partir de la vigencia de la presente ley, el personal, bienes y recursos financieros de la «SENATICS» pasarán a formar parte del «Ministerio».
 
-Todos los derechos y acciones atribuidos por leyes especiales a la «SENATICS» y a la «SICOM», quedan subrogados a favor del «Ministerio».
+Todos los derechos y acciones atribuidos por leyes especiales a la «SENATICS», quedan subrogados a favor del «Ministerio».
 
-A los efectos de determinar el patrimonio del «Ministerio», la «SENATICS» y la «SICOM» deberán proceder a un inventario general de los bienes, derechos y obligaciones.
+A los efectos de determinar el patrimonio del «Ministerio», la «SENATICS» deberán proceder a un inventario general de los bienes, derechos y obligaciones.
 
 ### Art. 24º.- Personal.
 
-**1.** El personal que, a la fecha de la promulgación de la presente ley, forme parte del anexo del personal de la «SENATICS» y de la «SICOM», pasará a formar parte de la nómina inicial del «Ministerio» y gozará de la misma antigüedad, régimen de jubilación y demás derechos adquiridos. Se regirán por esta ley, sus reglamentos, la Ley de la Función Pública, sus normas complementarias y reglamentarias.
+**1.** El personal que, a la fecha de la promulgación de la presente ley, forme parte del anexo del personal de la «SENATICS», pasará a formar parte de la nómina inicial del «Ministerio» y gozará de la misma antigüedad, régimen de jubilación y demás derechos adquiridos. Se regirán por esta ley, sus reglamentos, la Ley de la Función Pública, sus normas complementarias y reglamentarias.
 
-**2.** El personal, que a la fecha de promulgación de esta ley forme parte del anexo del personal de la «SENATICS» y de la «SICOM», y que ya cumpliese con los requisitos de la jubilación ordinaria, deberá acogerse a los beneficios de la misma.
+**2.** El personal, que a la fecha de promulgación de esta ley forme parte del anexo del personal de la «SENATICS», y que ya cumpliese con los requisitos de la jubilación ordinaria, deberá acogerse a los beneficios de la misma.
 
-**3.** El personal contratado que se encuentre prestando servicios en la «SENATICS» y en la «SICOM», continuará prestando dichos servicios en los mismos términos y condiciones contractuales.
+**3.** El personal contratado que se encuentre prestando servicios en la «SENATICS», continuará prestando dichos servicios en los mismos términos y condiciones contractuales.
 
 **4.** El Ministro del «Ministerio» podrá implementar un sistema de retiro voluntario incentivado, de acuerdo con la disponibilidad presupuestaria, para el personal que, a la fecha de la promulgación de la presente ley, desee acogerse a los beneficios de este sistema.
 
@@ -373,9 +395,9 @@ A partir de la entrada en vigencia de la presente Ley las relaciones de la «AEP
 
 El «Ministerio» integrará el Consejo Nacional de Ciencia y Tecnología (CONACYT), para lo cual el Ministro deberá designar a un representante titular y un representante suplente, los cuales serán nombrados como consejeros por Decreto del Poder Ejecutivo.
 
-### Art. 28º.- Extinción de «SENATICS» y «SICOM».
+### Art. 28º.- Extinción de «SENATICS».
 
-La «SENATICS» y la «SICOM» dependiente de la Presidencia de la República, quedarán extinguidas de pleno derecho a partir de la entrada en vigencia de la presente ley.
+La «SENATICS» dependiente de la Presidencia de la República, quedarán extinguidas de pleno derecho a partir de la entrada en vigencia de la presente ley.
 
 ### Art. 29º.- Ministerio de Obras Públicas.
 
@@ -383,7 +405,7 @@ A partir de la entrada en vigencia de la presente ley, el Ministerio de Obras P�
 
 ### Art. 30º.- Derogación.
 
-Queda derogada la Ley Nº 4989/ 2013 «Que crea el Marco de Aplicación de las Tecnologías de la Información y Comunicación en el Sector Público y crea la Secretaría Nacional de la Tecnologías de la Información y Comunicación (SENATICS)» y  todas las disposiciones contrarias a la presente Ley a partir de su entrada en vigor.
+Queda derogada la Ley Nº 4989/ 2013 «Que crea el Marco de Aplicación de las «TIC» en el Sector Público y crea la Secretaría Nacional de la Tecnologías de la Información y Comunicación (SENATICS)» y  todas las disposiciones contrarias a la presente Ley a partir de su entrada en vigor.
 
 ### Art. 31º.- Tiempo máximo de adecuación.
 
